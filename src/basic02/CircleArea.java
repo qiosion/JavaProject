@@ -1,3 +1,5 @@
+package basic02;
+
 public class CircleArea {
     public static void main(String[] args) {
         // 상수

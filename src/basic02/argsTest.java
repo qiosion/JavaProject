@@ -1,3 +1,5 @@
+package basic02;
+
 public class argsTest {
     public static void main(String[] args) {
 
