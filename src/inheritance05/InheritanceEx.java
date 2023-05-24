@@ -1,3 +1,5 @@
+package inheritance05;
+
 // 상속 + 접근지정자
 class Person230517 {
     private int weight;

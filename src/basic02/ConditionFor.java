@@ -1,3 +1,5 @@
+package basic02;
+
 public class ConditionFor {
     // 조건식 - for문
     public static void main(String[] args) {

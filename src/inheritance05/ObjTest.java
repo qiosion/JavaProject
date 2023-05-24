@@ -1,10 +1,12 @@
+package inheritance05;
+
 public class ObjTest {
     public static void main(String[] args) {
-        Animal obj1 = new Animal(); // 부모클래스인 Animal 의 객체
+        Animal obj1 = new Animal(); // 부모클래스인 inheritance05.Animal 의 객체
         obj1.name = "lion";
         obj1.age = 4;
 
-        Human obj2 = new Human(); // 자식클래스인 Human 의 객체
+        Human obj2 = new Human(); // 자식클래스인 inheritance05.Human 의 객체
         obj2.hobby = "soccer";
         obj2.job = "programmer";
 
@@ -34,9 +36,9 @@ class Animal {
     public Animal() {
         System.out.println("안녕");
     }
-} // end of Animal
+} // end of inheritance05.Animal
 
-// Animal 클래스로부터 상속받는 Human 클래스
+// inheritance05.Animal 클래스로부터 상속받는 inheritance05.Human 클래스
 class Human extends Animal {
     String hobby;
     String job;
@@ -49,4 +51,4 @@ class Human extends Animal {
         System.out.println("ㅠㅡㅠ");
     }
 
-} // end of Human
+} // end of inheritance05.Human

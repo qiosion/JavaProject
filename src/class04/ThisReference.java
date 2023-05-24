@@ -1,3 +1,5 @@
+package class04;
+
 public class ThisReference {
     int sum;
     int a;
@@ -6,7 +8,7 @@ public class ThisReference {
         int sum;
         sum = a + b; // 3
         this.sum = sum;
-        // this.sum 은 ThisReference 클래스의 객체 obj에 대한 것. 클래스 전체에서 정의된 전역변수
+        // this.sum 은 class04.ThisReference 클래스의 객체 obj에 대한 것. 클래스 전체에서 정의된 전역변수
         // 그냥 sum 은 메서드 sum에서 정의된 지역변수. 파라미터
     }
 

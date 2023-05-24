@@ -1,3 +1,5 @@
+package class04;
+
 public class CallByValueTest {
     public static void main(String[] args) {
         int n = 10;

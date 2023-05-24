@@ -1,3 +1,5 @@
+package loop_array03;
+
 public class ForSample {
     public static void main(String[] args) {
         int sum = 0; // 전역변수 sum

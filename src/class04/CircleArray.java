@@ -1,3 +1,5 @@
+package class04;
+
 class Circle0503 {
     int radius;
 

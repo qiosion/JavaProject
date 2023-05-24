@@ -1,3 +1,5 @@
+package class04;
+
 class StaticSampleClass {
     public int n;
     public void g() {

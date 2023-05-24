@@ -1,3 +1,5 @@
+package class04;
+
 import java.util.Scanner;
 
 class Book0503 {

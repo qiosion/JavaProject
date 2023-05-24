@@ -1,3 +1,5 @@
+package class04;
+
 public class Java230419 {
     public static void main(String[] args) {
         int intArray[];

@@ -1,3 +1,5 @@
+package inheritance05;
+
 // 클래스 상속
 class Point { // 슈퍼 클래스
     private int x, y; // 좌표

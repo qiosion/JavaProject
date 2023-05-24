@@ -1,3 +1,5 @@
+package loop_array03;
+
 public class ArrayException {
     public static void main(String[] args) {
         int[] intArray = new int[5];

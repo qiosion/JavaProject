@@ -1,3 +1,5 @@
+package loop_array03;
+
 public class DoWhileSample {
     public static void main(String[] args) {
         char c = 'a';

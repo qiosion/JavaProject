@@ -1,3 +1,5 @@
+package loop_array03;
+
 import java.io.IOException;
 
 public class ExceptionTest {

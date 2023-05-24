@@ -1,3 +1,5 @@
+package basic02;
+
 public class Hello {
     public static void main(String[] args) {
         int i = 20;
@@ -7,7 +9,7 @@ public class Hello {
 
         j = sum(i, 10); // sum에서 Alt + Enter 누르면 활용가능한 것들 나옴
         a = '?';
-        String b = "Hello"; // 문자열
+        String b = "basic02.Hello"; // 문자열
 
         // 출력
         System.out.println(a);

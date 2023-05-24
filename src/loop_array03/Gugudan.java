@@ -1,3 +1,5 @@
+package loop_array03;
+
 public class Gugudan {
     public static void main(String[] args) {
         // 중첩반복 -> 중첩된 for문을 사용하여 구구단 출력

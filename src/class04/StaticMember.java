@@ -1,3 +1,5 @@
+package class04;
+
 import java.util.Scanner;
 
 // static 을 이용한 환율 계산기
@@ -22,7 +24,7 @@ public class StaticMember {
 
         CurrencyConverter.setRate(rate); // 환율 설정
 
-//        System.out.printf("백만원은 $%f입니다\n", CurrencyConverter.toDollar(1000000));
+//        System.out.printf("백만원은 $%f입니다\n", class04.CurrencyConverter.toDollar(1000000));
         System.out.println("백만원은 $" + CurrencyConverter.toDollar(1000000) + "입니다");
         System.out.println("$100는 " + CurrencyConverter.toKWR(100) + "원입니다");
     }

@@ -1,3 +1,5 @@
+package loop_array03;
+
 public class ArrayTest {
     public static void main(String[] args) {
         // 변수 Variable

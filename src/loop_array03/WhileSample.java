@@ -1,3 +1,5 @@
+package loop_array03;
+
 import java.util.Scanner;
 
 public class WhileSample {
