@@ -1,4 +1,4 @@
-package Generics_Collection07;
+package generics_collection07;
 
 class GenClass<T> {
     T val;
