@@ -9,7 +9,7 @@ public class FileWriterEx {
         String str = "";
 
         try {
-            fout = new FileWriter("output.txt"); // 예외처리 필요함
+            fout = new FileWriter("./src/stream08/문자스트림.txt"); // 예외처리 필요함
 
             for (int i = 1; i <= 10; i++) {
                 str = i + " line \n";
